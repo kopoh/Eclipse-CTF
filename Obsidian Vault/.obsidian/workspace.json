@@ -15,6 +15,7 @@
               "state": {
                 "file": "Strange schedule (WRITE-UP) EN.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strange schedule (WRITE-UP) EN.md",
+                "file": "Strange schedule (WRITE-UP) RU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strange schedule (WRITE-UP) EN.md",
+                "file": "Strange schedule (WRITE-UP) RU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strange schedule (WRITE-UP) EN.md"
+                "file": "Strange schedule (WRITE-UP) RU.md"
               }
             }
           }
@@ -164,13 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a23496af3ec709d",
+  "active": "b1cd05251931f994",
   "lastOpenFiles": [
+    "Strange schedule (WRITE-UP) EN.md",
+    "().md",
+    "Strange schedule (WRITE-UP) RU.md",
     "Assets/1.png",
     "Assets/13.png",
-    "Strange schedule (WRITE-UP) EN.md",
     "Pasted image 20240418001819.png.md",
-    "Strange schedule (WRITE-UP) RU.md",
     "Assets/12.png",
     "Assets/11.png",
     "Assets/10.png",
