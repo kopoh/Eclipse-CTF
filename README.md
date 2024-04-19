@@ -1,7 +1,7 @@
 <h1 align="center">Redshift.eclipseCTF kopoh task</h1>
 <h1 align="center">STRANGE SCHEDULE</h1>
 <h3 align="center"></h3>
-<h3 align="center">Writeups (only Obsidian)</h3> 
+<h3 align="center">Writeups</h3> 
 <h5 align="center">
 
 [![RU writeup](https://img.shields.io/badge/WRITE_UP_RU-A6083F?logo=libreofficewriter&logoColor=fff&style=for-the-badge)](https://github.com/kopoh/Eclipse-CTF/blob/main/Obsidian%20Vault/Strange%20schedule%20(WRITE-UP)%20RU.md)
