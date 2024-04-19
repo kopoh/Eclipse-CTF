@@ -4,31 +4,32 @@
 И исследуем структуру проекта
 
 Зачастую всё что нужно хранится в package ID в нашем случае это com -> KopohGames.Scheduler (com.KopohGames.Scheduler)
-![[Pasted image 20240417232035.png]]
+![[Assets/1.png]]
 Изучая приложение мы находим файл TeacherLoginScreen
 Находим в нем его ViewModel с названием TeacherLoginViewModel
-![[Pasted image 20240417232443.png]]
+![[Assets/2.png]]
 Видим обращение к файлу TeacherRepository
 Дальше кликая по методу ==teacherLogin(login, password)== получаем ссылку на этот метод в котором спрятаны значения для входа
-![[Pasted image 20240417232840.png]]
+![[Assets/3.png]]
 Перейдя в метод мы видим условное выражение if(login == "eclipse" && password == "eclipse")
 
 Далее входим в приложение предварительно поставив в телефоне (эмуляторе) дату начала Redshift (18.12.2023)
-![[Screenshot_2023-12-18-00-05-41-276_com.android.settings-edit.jpg]]
-![[Screenshot_2023_12_18_00_08_04_356_com_KopohGames_Scheduler_androidApp.jpg]]
+![[Assets/4.jpg]]
+![[Assets/5.jpg]]
 
 
 И по условию смотрим на страничку настроек где видим подсказку (что надо найти её в дискорде у пользователя kopoh)
-![[Screenshot_2023_12_18_00_06_42_529_com_KopohGames_Scheduler_androidApp.jpg]]
+![[Assets/6.jpg]]
 
 Или же на этапе исследования проекта найти картинку которая закопана глубоко в файлах
-![[Pasted image 20240418000208.png]]
+![[Assets/7.png]]
+![[Assets/8.png]]
 
-и флаг это 
+И флаг это 
 ```
 eclipseCTF{k0po#_1S_U9V3R$}
 ```
-![[Pasted image 20240418001354.png]]
+![[Assets/9.png]]
 
 Решение 2 (BRUTFORCE)
 
@@ -37,22 +38,22 @@ eclipseCTF{k0po#_1S_U9V3R$}
 Решение 3 (IDA)
 
 Открываем APK файл в ida64 как APK
-![[Pasted image 20240418001155.png]]
+![[Assets/10.png]]
 
 Дальше используем Strings для того чтобы собрать все строки в коде
-![[Pasted image 20240418001858.png]]
+![[Assets/11.png]]
 После этого ищем (поле/строку email или eclipse)
-![[Pasted image 20240418001908.png]]
+![[Assets/12.png]]
 В итоге выходим на блок кода с условием if(email == "eclipse")
-![[Pasted image 20240418001819.png]]
+![[Assets/13.png]]
 
 Далее вход в приложение с датой начала eclipse и поиск флага в дискорде
-![[Screenshot_2023-12-18-00-05-41-276_com.android.settings-edit.jpg]]![[Screenshot_2023_12_18_00_08_04_356_com_KopohGames_Scheduler_androidApp.jpg]]
+![[Assets/4.jpg]]![[Assets/5.jpg]]
 
-![[Screenshot_2023_12_18_00_06_42_529_com_KopohGames_Scheduler_androidApp.jpg]]
+![[Assets/6.jpg]]
 
 And the flag is
 ```
 eclipseCTF{k0po#_1S_U9V3R$}
 ```
-![[Pasted image 20240418001354.png]]
+![[Assets/9.png]]

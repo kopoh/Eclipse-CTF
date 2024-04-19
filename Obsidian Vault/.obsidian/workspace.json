@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strange schedule (WRITE-UP) RU.md",
+                "file": "Strange schedule (WRITE-UP) EN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strange schedule (WRITE-UP) RU.md",
+                "file": "Strange schedule (WRITE-UP) EN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strange schedule (WRITE-UP) RU.md"
+                "file": "Strange schedule (WRITE-UP) EN.md"
               }
             }
           }
@@ -164,21 +164,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1cd05251931f994",
+  "active": "5a23496af3ec709d",
   "lastOpenFiles": [
+    "Assets/1.png",
+    "Assets/13.png",
     "Strange schedule (WRITE-UP) EN.md",
+    "Pasted image 20240418001819.png.md",
     "Strange schedule (WRITE-UP) RU.md",
+    "Assets/12.png",
+    "Assets/11.png",
+    "Assets/10.png",
+    "Assets/9.png",
+    "Assets/8.png",
+    "Assets/7.png",
+    "Assets/6.jpg",
+    "Assets/5.jpg",
     "Untitled",
-    "Assets/Pasted image 20240418001908.png",
-    "Assets/Pasted image 20240418001858.png",
-    "Assets/Pasted image 20240418001819.png",
-    "Assets/Pasted image 20240418001354.png",
-    "Assets/Pasted image 20240418001155.png",
-    "Assets/Screenshot_2023_12_18_00_06_42_529_com_KopohGames_Scheduler_androidApp.jpg",
-    "Assets/Screenshot_2023-12-18-00-05-41-276_com.android.settings-edit.jpg",
-    "Assets/Screenshot_2023_12_18_00_08_04_356_com_KopohGames_Scheduler_androidApp.jpg",
-    "Assets/Pasted image 20240418000208.png",
-    "Assets/Pasted image 20240417235903.png",
     "2024-04-17.md",
     "Untitled.canvas",
     "Untitled 1.md",
