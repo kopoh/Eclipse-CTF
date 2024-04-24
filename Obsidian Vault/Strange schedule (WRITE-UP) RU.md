@@ -52,7 +52,7 @@ eclipseCTF{k0po#_1S_U9V3R$}
 
 ![Assets/6.jpg](Assets/6.jpg)
 
-And the flag is
+И флаг это
 ```
 eclipseCTF{k0po#_1S_U9V3R$}
 ```
