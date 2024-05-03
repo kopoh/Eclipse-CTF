@@ -1,4 +1,4 @@
-Solution 1 (JADX)
+## Solution 1 (JADX)
 To get started, download JADX 
 After that, open the APK file attached to the task
 And we will explore the structure of the project
@@ -32,11 +32,11 @@ eclipseCTF{k0po#_1S_U9V3R$}
 ```
 ![Assets/9.png](Assets/9.png)
 
-Solution 2 (BRUTFORCE)
+## Solution 2 (BRUTFORCE)
 
 Brute email and password values :D
 
-Solution 3 (IDA)
+## Solution 3 (IDA)
 
 Opening the APK file in ida64 as APK
 ![Assets/10.png](Assets/10.png)

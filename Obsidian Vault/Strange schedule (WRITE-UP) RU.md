@@ -1,4 +1,4 @@
-Решение 1 (JADX)
+## Решение 1 (JADX)
 Для начала скачиваем JADX 
 После этого открываем прилагаемый к таску APK файл
 И исследуем структуру проекта
@@ -31,11 +31,11 @@ eclipseCTF{k0po#_1S_U9V3R$}
 ```
 ![Assets/9.png](Assets/9.png)
 
-Решение 2 (BRUTFORCE)
+## Решение 2 (BRUTFORCE)
 
 Пробрутить значения email и password  :D
 
-Решение 3 (IDA)
+## Решение 3 (IDA)
 
 Открываем APK файл в ida64 как APK
 ![Assets/10.png](Assets/10.png)
